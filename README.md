@@ -9,6 +9,12 @@ downloaded from their web page,
 
 Code has been tested with tensorflow==2.2.0
 
+Package To install：
+
+      pip install pillow
+      pip install tensorflow
+      pip install matplotlib
+      pip install opencv-python
 train：
 
       python main.py
